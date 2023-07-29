@@ -6,9 +6,10 @@
     <img src="./images/shiba_wave.png" height="32" style="margin-right: 5px; vertical-align: -5px" />
     Hi, I'm Richard!
   </h1>
+<p>testing.</p>
+
 </div>
 
-<p>testing.</p>
 ## About Me
 
 I'm a software engineer. I have an enthusiasm for building beautiful and innovative web applications. I love to tinker with anything UI-related.
