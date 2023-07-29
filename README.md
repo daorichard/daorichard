@@ -1,10 +1,9 @@
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/daorichard/daorichard/assets/98173508/8e87f5ff-3a89-4549-8a82-10a7c4f554d5" alt="my banner"></a>
 </p>
-<div style="display: flex; align-items: center; justify-content: center;">
-<img src="./images/shiba_wave.png" height="32" style="margin-right: 5px; vertical-align: -5px" />
-  <h1>
-    
+<div align='center'style="text-align: center;">
+  <h1 style="display: flex; align-items: center; justify-content: center;">
+    <img src="./images/shiba_wave.png" height="32" style="margin-right: 5px; vertical-align: -5px" />
     Hi, I'm Richard!
   </h1>
 </div>
