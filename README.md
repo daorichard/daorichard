@@ -7,7 +7,6 @@
     Hi, I'm Richard!
   </h1>
 </div>
-<h3 align='center'>Software Engineer seeking new opportunities!</h3>
 
 ## About Me
 
