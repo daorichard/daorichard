@@ -7,11 +7,14 @@
     <img src="./images/shiba_wave.png" height="32" style="margin-right: 5px; vertical-align: -5px" />
     Hello, I'm Richard!
   </h1>
+  Seeking new opportunities to grow my creative and problem-solving skills
 </div>
 
-## About Me
+## 🖥 About Me
 
-I'm a software engineer. I have an enthusiasm for building beautiful and innovative web applications. I love to tinker with anything UI-related.
+- I'm a software engineer. I have an enthusiasm for building beautiful and innovative web applications. I love to tinker with anything UI-related.
+
+- Outside of coding, I enjoy hiking with my dog, playing volleyball, and trying out new sushi places.
 
 <!-- Why I enjoy coding - making an impact on a wider scale, building and creating something that is my own,  -->
 
@@ -26,6 +29,11 @@ I'm a software engineer. I have an enthusiasm for building beautiful and innovat
 </br>
 </br>
 💬 If you have any questions or feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+-
+- Video game recommendation app
 
 ## 🌱 I'm currently learning
 
