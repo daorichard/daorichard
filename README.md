@@ -3,7 +3,7 @@
 </p>
 <div align='center'style="text-align: center;">
   <h1 style="display: flex; align-items: center; justify-content: center;">
-    <img src="./images/shiba_wave.png" height="32" style="margin-right: 10px; vertical-align: middle;" />
+    <img src="./images/shiba_wave.png" height="32" style="margin-right: 5px; vertical-align: 5px" />
     Hi, I'm Richard!
   </h1>
 </div>
