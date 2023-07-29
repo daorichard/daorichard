@@ -7,7 +7,7 @@
     <img src="./images/shiba_wave.png" height="32" style="margin-right: 5px; vertical-align: -5px" />
     Hello, I'm Richard!
   </h1>
-  Seeking new opportunities to grow my creative and problem-solving skills
+  <h3>Seeking new opportunities to grow my creative and problem-solving skills</h3>
 </div>
 
 ## 🖥 About Me
