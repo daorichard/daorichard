@@ -7,7 +7,7 @@
     Hi, I'm Richard!
   </h1>
 <p>testing.</p>
-
+testing
 </div>
 
 ## About Me
@@ -22,7 +22,7 @@ I'm a software engineer. I have an enthusiasm for building beautiful and innovat
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/justincaovan/"><img src='./images/linkedin.png' align='left' alt='linkedin' height='32'/></a>
+<a href="https://www.linkedin.com/in/rdao/"><img src='./images/linkedin.png' align='left' alt='linkedin' height='32'/></a>
 <a href="mailto:daorichard0901@gmail.com"><img src='./images/gmail.png' align='left' alt='Mail' height='32'/></a>
 </br>
 </br>
