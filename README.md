@@ -6,7 +6,6 @@
   <h1 style="display: flex; align-items: center; justify-content: center; border-bottom: none">
     <img src="./images/shiba_wave.png" height="32" style="margin-right: 5px; vertical-align: -5px" />
     Hi, I'm Richard!
-    <p>testing</p>
   </h1>
 </div>
 
