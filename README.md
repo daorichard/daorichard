@@ -10,7 +10,7 @@
   <h3>Seeking new opportunities to grow my creative and problem-solving skills</h3>
 </div>
 
-## 🖥 About Me
+## 👨‍💻 About Me
 
 - I'm a software engineer. I have an enthusiasm for building beautiful and innovative web applications. I love to tinker with anything UI-related.
 
@@ -32,14 +32,15 @@
 
 ## 🔭 I'm currently working on
 
--
 - Video game recommendation app
+-
 
 ## 🌱 I'm currently learning
 
 - Typescript
 - Tailwind
 - Kubernetes & Docker
+- How to make sushi
 
 ## 💼 Technical Skills
 
