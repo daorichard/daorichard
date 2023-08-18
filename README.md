@@ -40,7 +40,7 @@
 - Typescript
 - Tailwind
 - Kubernetes & Docker
-- How to make sushi
+- 
 
 ## 💼 Technical Skills
 
