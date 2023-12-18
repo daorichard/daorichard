@@ -32,14 +32,14 @@
 
 ## 🔭 I'm currently working on
 
-- Video game recommendation app
--
+- Advent of Code 2023 🎄
+- 
 
 ## 🌱 I'm currently learning
 
 - Typescript
+- Java Spring
 - Tailwind
-- Kubernetes & Docker
 - 
 
 ## 💼 Technical Skills
